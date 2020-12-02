@@ -1,0 +1,5 @@
+understanding of how computer networking works? 
+before we understand why we need to use HTTP?
+, why we communicate with a server?
+, what is the reason for the delay?
+ when you are talking to a server and so on.
